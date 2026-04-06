@@ -12,11 +12,22 @@ Formant grups de treball: [Escriu els noms dels membres del grup aquí]
 
 ## Descripció del projecte
 
-FoodLogístic S.A. és una empresa capdavantera en la distribució i logística alimentària a nivell nacional. Arran de l'obertura de noves rutes i la contractació de més personal, el seu volum de dades i les seves necessitats de comunicació s'han multiplicat.
+"FoodLogístic S.A." és una empresa capdavantera en la distribució i logística alimentària a nivell nacional. Arran de l'obertura de noves rutes i la contractació de més personal, el seu volum de dades i les seves necessitats de comunicació s'han multiplicat.
 
 La seva infraestructura actual s'ha quedat petita i pateixen per la seguretat i la continuïtat del negoci. Han contactat amb la vostra empresa informàtica perquè els ajudeu a modernitzar-se. Us demanen actuar en tres àrees clau:
 
 Al següent enllaç pots trobar l'enunciat complet del projecte [accés al projecte FoodLogistic]()
+
+### Dades legals i corporatives de "FoodLogistic S.A."
+
+- **Raó social:** FoodLogistic S.A.
+- **NIF:** A08123456
+- **Adreça:**  Carrer de la Teixidora, núm. 13, 08302 Mataró Barcelona.
+- **Inscripció Registral:** Inscrita al Registre Mercantil de Barcelona, Tom 45678, Foli 120, Full B-567890, Inscripció 1a.
+- **Correu electrònic de contacte:** <info@foodlogistic.com>
+- **Telèfon:** +34 935 55 55 55
+- **Nombre de treballadors:** 35
+- **Facturació darrer any:** 25 milions d’euros.
 
 ## Instruccions (per eliminar abans de lliurar el projecte)
 
@@ -48,6 +59,10 @@ projecte7/
 
 1. **Esborrar secció instruccions:**
     - Un cop hàgiu completat la creació de les carpetes i actualitzat el vostre README.md, ja podeu eliminar aquesta secció d'instruccions per a una millor presentació del vostre projecte.
+
+1. **Logotips, imatges i empresa pròpia**
+    - El logotip de l'empresa client "FoodLogistic S.A." es troba a la carpeta `pics` i el que hauríeu d'utilitzar en el vostre projecte: web, proposta, etc.
+    - Pel que respecte la vostra empresa, podeu reaprofitar els logotips i noms que heu creat en projectes anteriors o crear-ne de nous. Recordeu que el nom de la vostra empresa i el logotip són elements importants per a la vostra identitat corporativa, així que trieu-los amb cura!
 
 ## Guies Git i GitHub
 
