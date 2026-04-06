@@ -1,8 +1,8 @@
-# projecte Nexus
+# projecte FoodLogistic
 
-## Desplegament integral d'infraestructura segura per a entorns d'e-learning
+## Modernització de la logística alimentària a través de la tecnologia
 
-![Logo del projecte Nexus](pics/logotip.png)
+![Logo del projecte FoodLogistic](pics/FoodLogisticLogo.png)
 
 ## Autor
 
@@ -12,11 +12,11 @@ Formant grups de treball: [Escriu els noms dels membres del grup aquí]
 
 ## Descripció del projecte
 
-Projecte Nexus vol posar en marxa una plataforma de formació E-learning pròpia, orientada a cursos per a tècnics informàtics i demana que aquesta plataforma es construeixi sobre una infraestructura de servidor eficient, sostenible i amb costos controlats.
+FoodLogístic S.A. és una empresa capdavantera en la distribució i logística alimentària a nivell nacional. Arran de l'obertura de noves rutes i la contractació de més personal, el seu volum de dades i les seves necessitats de comunicació s'han multiplicat.
 
-Per aquest motiu, Projecte Nexus encarrega al vostre equip tècnic (vosaltres) l’estudi, desplegament i presentació d’una solució completa de servidor, adequada a les necessitats del client i al context real d’una petita o mitjana organització.
+La seva infraestructura actual s'ha quedat petita i pateixen per la seguretat i la continuïtat del negoci. Han contactat amb la vostra empresa informàtica perquè els ajudeu a modernitzar-se. Us demanen actuar en tres àrees clau:
 
-Al següent enllaç pots trobar l'enunciat complet del projecte [accés al projecte Nexus]()
+Al següent enllaç pots trobar l'enunciat complet del projecte [accés al projecte FoodLogistic]()
 
 ## Instruccions (per eliminar abans de lliurar el projecte)
 
@@ -31,7 +31,7 @@ Un cop teniu la vostra còpia d'aquest repositori, heu de seguir els passos seg�
 
 ```text
 
-projecte6/
+projecte7/
 ├── README.md (aquest arxiu)
 ├── Tasca01/
 │   └── README.md
